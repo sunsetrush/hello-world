@@ -1,2 +1,2 @@
 # hello-world
-The first comit. (2019.07.14)
+The first repository. (2019.07.14)
